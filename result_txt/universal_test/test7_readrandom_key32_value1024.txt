@@ -1,0 +1,1 @@
+==========readrandom] key size = 32, value size = 1024 ===========
